@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Catálogo Interativo</string>
+    <string name="catalogo">Cardápio</string>
+    <string name="carrinho">Carrinho: %1$d itens</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="sem_descricao">Sem descrição</string>
+    <string name="vegetariano">Vegetariano</string>
+    <string name="nao_vegetariano">Não vegetariano</string>
+    <string name="alcoolica">Alcoólica</string>
+    <string name="sem_alcool">Sem álcool</string>
+    <string name="pratos">Pratos</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="ver_resumo">Ver resumo</string>
+    <string name="resumo">Resumo do pedido</string>
+    <string name="voltar">Voltar</string>
+    <string name="vazio">Seu carrinho está vazio. Volte ao cardápio para adicionar itens.</string>
+    <string name="pagamento">Forma de pagamento</string>
+    <string name="dinheiro">Dinheiro</string>
+    <string name="cartao">Cartão</string>
+    <string name="pix">Pix - %1$d%% de desconto</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="taxa" formatted="false">Taxa de serviço (10%)</string>
+    <string name="desconto">Desconto</string>
+    <string name="total">Total</string>
+    <string name="finalizar">Finalizar pedido</string>
+    <string name="finalizado">Pedido finalizado! Recibo registrado no Logcat.</string>
+    <string name="novo_pedido">Novo pedido</string>
+    <string name="remover">Remover uma unidade de %1$s</string>
+    <string name="linha_item">%1$d × %2$s</string>
+</resources>

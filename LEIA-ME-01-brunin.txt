@@ -1,0 +1,12 @@
+PACOTE 01-BRUNIN
+
+Ordem dos commits: 01 Brunin -> 02 Leo -> 03 Mauricio -> 04 Brunao.
+1. Clone o repositorio DO GRUPO em sua maquina (nao o do professor).
+2. Aguarde o push da pessoa anterior e atualize com git pull --ff-only origin main.
+   Brunin inicia o repositorio vazio, conforme docs/FLUXO_COMMITS.md.
+3. Extraia o conteudo deste ZIP na raiz do clone, mantendo os caminhos.
+4. Leia docs/FLUXO_COMMITS.md e execute somente os comandos da sua etapa.
+5. Revise sua parte e faca commit/push com sua propria identidade Git.
+6. Seu roteiro de gravacao esta em docs/roteiros/01-brunin.md.
+O aplicativo completo depende dos quatro pacotes. Nao copie o codigo completo no primeiro commit.
+Este LEIA-ME serve apenas para orientacao; nao precisa ser commitado.

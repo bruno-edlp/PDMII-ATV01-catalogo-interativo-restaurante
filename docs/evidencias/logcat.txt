@@ -1,0 +1,12 @@
+--------- beginning of main
+10-04 20:51:41.334  2223  2223 I CatalogoPedido: RECIBO - CATÁLOGO INTERATIVO
+10-04 20:51:41.334  2223  2223 I CatalogoPedido: PRATOS
+10-04 20:51:41.335  2223  2223 I CatalogoPedido: 1 x Pizza Margherita: R$ 42,00
+10-04 20:51:41.335  2223  2223 I CatalogoPedido: 1 x Feijoada completa: R$ 58,00
+10-04 20:51:41.335  2223  2223 I CatalogoPedido: BEBIDAS
+10-04 20:51:41.335  2223  2223 I CatalogoPedido: 1 x Suco de laranja: R$ 12,00
+10-04 20:51:41.335  2223  2223 I CatalogoPedido: Pagamento: Pix (10%)
+10-04 20:51:41.335  2223  2223 I CatalogoPedido: Subtotal: R$ 112,00
+10-04 20:51:41.335  2223  2223 I CatalogoPedido: Taxa de serviço: R$ 11,20
+10-04 20:51:41.336  2223  2223 I CatalogoPedido: Desconto: -R$ 11,20
+10-04 20:51:41.336  2223  2223 I CatalogoPedido: TOTAL: R$ 112,00
