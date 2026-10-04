@@ -108,9 +108,3 @@ Capturas reais da execução:
 [Logcat capturado no emulador](docs/evidencias/logcat.txt).
 
 Antes da entrega, o grupo ainda deve completar nomes completos, usuários GitHub e o link do vídeo não listado no YouTube, além de executar o roteiro restante de validação nos próprios ambientes.
-
-## Como dividir os commits
-
-Para gravar a apresentação, usem o [roteiro do vídeo](docs/ROTEIRO_VIDEO.md), com falas e trechos de código separados por integrante. O roteiro individual também acompanha cada ZIP.
-
-Leia [FLUXO_COMMITS.md](docs/FLUXO_COMMITS.md). A pasta local `entrega/` contém quatro ZIPs individuais e uma versão consolidada do código para consulta. Não publique o projeto inteiro antes da divisão: isso faria os arquivos dos colegas já aparecerem no primeiro commit.
